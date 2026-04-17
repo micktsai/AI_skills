@@ -1,7 +1,7 @@
-# AI_skills
-Common Skills I used
+# AI skills
+AI skills utilized for workplace productivity enhancement.
 
-Include following skills:
-Pull Request helper
-karpathy-guidelines
-Unit test helper
+# Skill list
+* Pull Request helper
+* karpathy-guidelines
+* Unit test helper
