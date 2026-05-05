@@ -5,3 +5,4 @@ AI skills utilized for workplace productivity enhancement.
 * Pull Request helper
 * karpathy-guidelines
 * Unit test helper
+* code-review-skill
